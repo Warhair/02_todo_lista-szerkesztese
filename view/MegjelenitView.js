@@ -1,4 +1,4 @@
-import MegjelenitSor from "./MegjelenitSor.js";
+import MegjelenitSor from "./MegjelenitSorView.js";
 
 class Megjelenit {
     #list = [];
